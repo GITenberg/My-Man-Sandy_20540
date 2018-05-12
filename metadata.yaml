@@ -1,0 +1,37 @@
+_repo: My-Man-Sandy_20540
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Salmond, James Bell
+    alias: Salmond, J. B. (James Bell)
+    birthdate: 1891
+    deathdate: 1958
+    gutenberg_agent_id: '9368'
+    url: http://www.gutenberg.org/2009/agents/9368
+description: ''
+gutenberg_issued: '2007-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20540'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Humorous stories'
+- !lcsh 'Scotland -- Fiction'
+- !lcc 'PR'
+tableOfContents: Sandy swaps his powney -- Sandy starts to study geometry -- Sandy
+  and the dinner bell -- A talk about heaven -- Mistress Mikaver's tea party -- Sandy's
+  second lesson in geometry -- Sandy's magic lantern exhibition -- Sandy and the rhubarb
+  tart -- The great storm of November, 1893 -- Sandy and his fairntickles -- Sandy
+  stands "empire" at a cricket match -- A dreadful disaster in the garret -- Sandy
+  and Bawbie's spring holiday -- Love and war -- Sandy makes a speech -- Sandy's Christmas
+  present -- At the select choir's concert -- Sandy runs a race -- Sandy revenged
+  -- Sandy's apologia.
+title: My Man Sandy
+url: http://www.gutenberg.org/ebooks/20540
